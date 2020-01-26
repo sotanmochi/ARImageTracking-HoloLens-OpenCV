@@ -6,18 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HoloLensWithOpenCVForUnityExample/HoloLensWithOpenCVForUnityExample.unity
-    guid: 3a58626d3c947ef4e9c22d0f4a104715
-  - enabled: 1
-    path: Assets/HoloLensWithOpenCVForUnityExample/ShowLicense.unity
-    guid: ae54b3be70768f64e9b1a300c7cdeff9
-  - enabled: 1
-    path: Assets/HoloLensWithOpenCVForUnityExample/HoloLensPhotoCaptureExample/HoloLensPhotoCaptureExample.unity
-    guid: e89ceb2c24c45d844b87c3e07cd240dc
-  - enabled: 1
-    path: Assets/HoloLensWithOpenCVForUnityExample/HoloLensArUcoExample/HoloLensArUcoCameraCalibrationExample.unity
-    guid: f0c9209848567b44396a236e8f2e6c9a
-  - enabled: 1
-    path: Assets/HoloLensWithOpenCVForUnityExample/HoloLensArUcoExample/HoloLensArUcoExample.unity
-    guid: 7c2f990ddeed1ed4f8b1befc34f3dbd8
+    path: Assets/ARImageTracking-HoloLens-OpenCV/ARImageTracking.unity
+    guid: 90c3f86bba83d8748b42a2654669077e
   m_configObjects: {}

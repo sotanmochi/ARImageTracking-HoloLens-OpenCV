@@ -1,6 +1,7 @@
 # ======================================== #
 # Initial setting (All assets are ignored)
 # ======================================== #
+_gitignores/
 Assets/*
 
 # ======================== #
@@ -13,8 +14,8 @@ Assets/Plugins/*
 # ============================================================== #
 # Project specific assets and my own assets (Not ignored assets)
 # ============================================================== #
-# !Assets/ARImageTracking-HoloLens-OpenCV
-# !Assets/ARImageTracking-HoloLens-OpenCV.meta
+!Assets/ARImageTracking-HoloLens-OpenCV
+!Assets/ARImageTracking-HoloLens-OpenCV.meta
 
 # ======================================= #
 # Third party assets (Not ignored assets)
